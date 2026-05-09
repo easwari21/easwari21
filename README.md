@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **React/Angular based projects.**
 
-- 📝 I regularly write articles on [https://substack.com/@easwarim](https://substack.com/@easwarim)
+- 📝 Sometimes I write articles on [https://substack.com/@easwarim](https://substack.com/@easwarim)
 
 - 📫 How to reach me **easwarimuruganandham@gmail.com**
 

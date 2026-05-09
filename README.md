@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Easwari M</h1>
 <h3 align="center">AIML Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=easwari21" alt="easwari21" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning Projects where I can learn to implement new things💪**
 
